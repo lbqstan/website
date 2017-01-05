@@ -2,8 +2,8 @@
 
 BODY {
 	color: #565656;
-	background-color: #F8F8F8;
-	font-family: serif;
+	background-color: #FFFFFF;
+	font-family: sans-serif;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	margin-left: 5%;
@@ -23,14 +23,14 @@ BODY {
 }
 
 .title {
-	color: #006500;
+	color: #555555;
 	font-family: sans-serif;
 	text-align: left;
 	border-style: solid;
-	border-color: #DCCCDC;
-	border-top-width: 8px;
-	border-right-width: 2px;
-	margin-top: 30px;
+	border-color: #DDDDDD;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	margin-top: 33px;
 }
 
 .inv {
